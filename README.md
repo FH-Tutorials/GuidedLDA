@@ -2,7 +2,7 @@
 
 Create from Git Template [GuidedLDA](https://github.com/vi3k6i5/GuidedLDA)
 
-Template Repository has(d) some installation issues which seemed to be fixed by this work around
+Template Repository has/d some installation issues which seemed to be fixed by this work around
 
 ## Requirements
 
@@ -11,7 +11,7 @@ docker
 ## Build with docker
 
 ```bash
-docker build -t hirsche/glda .
+docker built -t hirsche/glda .
 ```
 
 ## Run with docker
@@ -20,7 +20,7 @@ docker build -t hirsche/glda .
 docker run -it hirsche/glda bash
 ```
 
-when build by yourself. Or
+when built by yourself. Or
 
 ```bash
 docker run -it hirsche/glda:latest bash

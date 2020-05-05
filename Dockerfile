@@ -6,6 +6,8 @@ WORKDIR /root/GuidedLDA
 RUN chmod a+x *.sh
 RUN pip install cython numpy pbr
 
+# `python setup.py sdist --formats=gztar` has some problems
+# but errors will be ignored
 RUN make cython && \
     python setup.py clean && \
     python setup.py build_ext --inplace && \
