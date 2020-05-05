@@ -1,6 +1,6 @@
 # GuidedLDA
 
-Create from Template @ https://github.com/vi3k6i5/GuidedLDA
+Create from Git Template [GuidedLDA](https://github.com/vi3k6i5/GuidedLDA)
 
 Template Repository has(d) some installation issues which seemed to be fixed by this work around
 
