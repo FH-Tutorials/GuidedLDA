@@ -23,7 +23,7 @@ docker run -it hirsche/glda bash
 when build by yourself. Or
 
 ```bash
-docker run -it hirsche/glda:0.1 bash
+docker run -it hirsche/glda:latest bash
 ```
 
-when retreiving from [docker hub](hirsche/guidedlda)
+when retreiving from [docker hub](https://hub.docker.com/repository/docker/hirsche/guidedlda).
